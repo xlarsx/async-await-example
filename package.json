@@ -19,5 +19,8 @@
   },
   "dependencies": {
     "twilio": "^2.9.0"
+  },
+  "engines": {
+    "node": "4.1.0"
   }
 }
